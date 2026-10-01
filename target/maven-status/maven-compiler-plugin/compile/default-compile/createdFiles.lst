@@ -1,0 +1,10 @@
+controller\VideoClubController.class
+Main.class
+model\VideoClubModel.class
+controller\BibliotecaController.class
+model\Libro.class
+view\BibliotecaView.class
+view\VideoClubView.class
+database\DatabaseManager.class
+model\Pelicula.class
+model\BibliotecaModel.class
